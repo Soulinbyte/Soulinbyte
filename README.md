@@ -9,10 +9,12 @@
 
 <h2 align="center">Experience</h3>
 <p align="center">
-  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/269210097-e4d8cb27-4fb4-4003-bccf-4459ea93c30d.png" />
+  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/5d89ae11e9e2d5a3768fd10c9cae5fe6212a673c/Screenshot%201402-09-11%20at%207.16.45%20in%20the%20evening.png" />
   <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/rn.png" />
-  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/28dd7bf1997b719f5b797faa3115bd6f7ee86cf9/adonis.svg" />
-  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/nodejs.jpeg" />
+  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/hero.png" />
+  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/13810373.png" />
+  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/st%2Csmall%2C507x507-pad%2C600x600%2Cf8f8f8.u3.jpg" />
   <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/Xcode_14_icon.png" />
   <img height="80" src="https://github.com/Soulinbyte/Soulinbyte/blob/main/Android_Studio_icon_(2023).svg.png" />
+  <img height="80" src="https://raw.githubusercontent.com/Soulinbyte/Soulinbyte/main/Sketch_Logo.svg.png" />
 </p>
